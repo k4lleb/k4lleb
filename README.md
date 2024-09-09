@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">Comunicação</p>
+<h3 align="left">Comunicação</h3>
 
 ###
 
