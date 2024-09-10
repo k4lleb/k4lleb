@@ -32,10 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/k4lleb/k4lleb/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
